@@ -1,0 +1,17 @@
+{
+  "name": "certificate-management-system",
+  "version": "1.0.0",
+  "description": "Certificate Management System with RBAC (Admin, Student, Management)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "lowdb": "^5.0.0",
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
