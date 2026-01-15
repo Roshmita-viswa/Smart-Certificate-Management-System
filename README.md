@@ -24,11 +24,6 @@ npm start
 
 Open http://localhost:3000
 
-Default seeded accounts:
-
-- Admin: admin@example.com / adminpass
-- Management: management@example.com / managepass
-- Student: student1@example.com / studentpass
 
 Notes
 
